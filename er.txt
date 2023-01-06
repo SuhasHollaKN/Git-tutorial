@@ -1,2 +1,4 @@
 new file created in master branch
 
+line added in n1 branch
+
