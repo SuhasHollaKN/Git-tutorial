@@ -1,3 +1,6 @@
 This is a sample text file, text is ok
 
 changes in master
+
+New line added
+
