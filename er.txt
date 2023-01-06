@@ -2,6 +2,9 @@ new file created in master branch
 
 line added in n1 branch
 
+
 line added in master branch to check for conflict
+
+line added in n1 branch to check for conflict
 
 
